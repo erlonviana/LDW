@@ -1,0 +1,10 @@
+[project]
+name = "03-backend-api"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "flasgger>=0.9.7.1",
+    "flask>=3.1.2",
+]
