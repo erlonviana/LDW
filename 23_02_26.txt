@@ -1,0 +1,19 @@
+i-davies.github.io/Conteudo-Fatec-2026-1/LDW/02_Backend/01-Backend/
+
+uv init
+
+*mockado
+*blueprint
+
+PS C:\Users\fatec-dsm4\Desktop\LDW-PRIMEIRO-PROJETO\LDW-MERGE-SKILLS> uv init
+Initialized project `ldw-merge-skills`
+PS C:\Users\fatec-dsm4\Desktop\LDW-PRIMEIRO-PROJETO\LDW-MERGE-SKILLS> cd .\apps\backend\
+PS C:\Users\fatec-dsm4\Desktop\LDW-PRIMEIRO-PROJETO\LDW-MERGE-SKILLS\apps\backend> uv init
+Adding `backend` as member of workspace `C:\Users\fatec-dsm4\Desktop\LDW-PRIMEIRO-PROJETO\LDW-MERGE-SKILLS`
+Initialized project `backend`
+PS C:\Users\fatec-dsm4\Desktop\LDW-PRIMEIRO-PROJETO\LDW-MERGE-SKILLS\apps\backend> uv add flask flasgger python-dotenv
+
+ver se a pasta venv foi criada dentro de backend
+se não, deletar a pasta
+criando manualmente: dentro de backend, executar uv venv
+
